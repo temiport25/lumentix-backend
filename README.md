@@ -1,4 +1,4 @@
-# Lumentix – Stellar Event Platform (Frontend)
+# Lumentix – Stellar Event Platform
 
 A decentralized event management platform built on the **Stellar blockchain** that makes event ticketing, payments, and sponsorships as smooth as a Stellar transaction (which is pretty smooth, by the way).
 
