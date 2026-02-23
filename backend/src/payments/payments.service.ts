@@ -222,7 +222,6 @@ export class PaymentsService {
     return confirmed;
   }
 
-
   // ─────────────────────────────────────────────────────────────────────────
   // Tickets dependency helper
   // ─────────────────────────────────────────────────────────────────────────
@@ -238,7 +237,6 @@ export class PaymentsService {
 
     return payment;
   }
-
 
   // ─────────────────────────────────────────────────────────────────────────
   // Helpers
@@ -281,7 +279,6 @@ export class PaymentsService {
     );
   }
 }
-
 
 // ─── Internal type helpers ────────────────────────────────────────────────────
 
